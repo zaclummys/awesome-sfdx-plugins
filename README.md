@@ -156,6 +156,10 @@ With this plugin, you can now create a dedicated QCP folder within your reposito
 
     SFDX plugin to generate Incremental Salesforce deployments manifests and artifacts.
 
+-   [sf-plugin-permission-sets](https://github.com/zaclummys/sf-plugin-permission-sets) (Isaac Ferreira, [@zaclummys](https://github.com/zaclummys))
+
+    Declarative, GitOps-style management of permission set assignments: define who gets what in version-controlled YAML, then plan and apply to reconcile your org to match, just like Terraform.
+
 ## Not plugins, but useful
 
 -   [yo-sfdx-commands-generator](https://github.com/vyuvalv/yo-sfdx-commands-generator) (Yuval Vardi) [](https://github.com/vyuvalv)
